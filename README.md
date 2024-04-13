@@ -6,10 +6,10 @@ Donor Registeration: Donors can easily register if they're willing to donate
 Only two sections. 
 Receiver's do not have to go through any login process or something they can directly access it.
 
-bash
-Copy code
+
+Clone it by using:
 git clone https://github.com/your_username/blood-donation-receiving.git
-Navigate to the project directory:
+
 
 Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
